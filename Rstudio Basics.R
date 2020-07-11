@@ -63,4 +63,4 @@ non1<-c(1,2,NaN,NA,4)#NaN becomes string if there is a string in it but NA wont 
 is.nan(non1)#it works on list
 is.na(non1)# it does not work on list
 # NaN is NA but NA is not NaN
-
+print("Doesm it works?")
